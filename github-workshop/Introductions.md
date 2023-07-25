@@ -7,4 +7,6 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 
 ## Question: What is your favourite pizza topping?
 
-1. 
+
+
+Pineapple 
